@@ -1,0 +1,17 @@
+@font-face {
+    font-family: IRANSANS;
+    src: url("../fonts/eot/IRANSansWeb.eot");
+    src: url("../fonts/ttf/IRANSansWeb.ttf");
+    src: url("../fonts/woff/IRANSansWeb.woff");
+    src: url("../fonts/woff2/IRANSansWeb.woff2");
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    font-family: IRANSANS;
+}
+a{
+    text-decoration: none;
+}
